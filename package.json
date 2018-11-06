@@ -1,0 +1,32 @@
+{
+  "name": "tre-demo-tree",
+  "version": "1.0.0",
+  "description": "treeview demo for tre",
+  "main": "index.js",
+  "dependencies": {
+    "browserify": "^16.2.3",
+    "budo": "^11.5.0",
+    "collect-mutations": "^1.0.0",
+    "mutant": "^3.22.1",
+    "tre-client": "^1.0.0",
+    "tre-treeview": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tre",
+    "demo"
+  ],
+  "author": "Jan Bölsche <jan@lagomorph.de> (https://regular.codes/)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regular/tre-demo-tree.git"
+  },
+  "bugs": {
+    "url": "https://github.com/regular/tre-demo-tree/issues"
+  },
+  "homepage": "https://github.com/regular/tre-demo-tree#readme"
+}
